@@ -23,7 +23,7 @@ La fluidesa en el terminal és una destresa comunament abandonada i considerada 
 
 Aquest treball és el resultat de [molts autors i traductors](AUTHORS.md).
 Part d'aquesta:
-[originalment[(http://www.quora.com/What-are-some-lesser-known-but-useful-Unix-commands)
+[originalment](http://www.quora.com/What-are-some-lesser-known-but-useful-Unix-commands)
 [va aparèixer](http://www.quora.com/What-are-the-most-useful-Swiss-army-knife-one-liners-on-Unix)
 en [Quora](http://www.quora.com/What-are-some-time-saving-tips-that-every-Linux-user-should-know),
 però des d'ençà s'ha mogut a GitHub, on persones més talentoses que l'autor han realitzat nombroses millores.
