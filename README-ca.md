@@ -19,14 +19,14 @@
 
 ![curl -s 'https://raw.githubusercontent.com/jlevy/the-art-of-command-line/master/README.md' | egrep -o '`\w+`' | tr -d '`' | cowsay -W50](cowsay.png)
 
-La fluidessa en el terminal és una destressa comunment abandonada i considerada arcàica, però aquesta millora la teva flexibilitat i productivitat com ingenier de formes òbvies i subtils. Aquesta és una selecció de notes i consells per utilitzar el terminal que trobarem útils al treballar amb Linux. Alguns consells són elementals i alguns bastant específics, sofisticats i foscos. Aquesta pàgina no és llarga, però si pots utilitzar-la i recordar tots els punts aquí mostrats, sabràs moltíssim.
+La fluidesa en el terminal és una destresa comunament abandonada i considerada arcaica, però aquesta millora la teva flexibilitat i productivitat com enginyer de formes òbvies i subtils. Aquesta és una selecció de notes i consells per utilitzar el terminal que trobarem útils al treballar amb Linux. Alguns consells són elementals i alguns bastant específics, sofisticats i foscos. Aquesta pàgina no és llarga, però si pots utilitzar-la i recordar tots els punts aquí mostrats, sabràs moltíssim.
 
 Aquest treball és el resultat de [molts autors i traductors](AUTHORS.md).
 Part d'aquesta:
 [originalment[(http://www.quora.com/What-are-some-lesser-known-but-useful-Unix-commands)
-[va apareixer](http://www.quora.com/What-are-the-most-useful-Swiss-army-knife-one-liners-on-Unix)
+[va aparèixer](http://www.quora.com/What-are-the-most-useful-Swiss-army-knife-one-liners-on-Unix)
 en [Quora](http://www.quora.com/What-are-some-time-saving-tips-that-every-Linux-user-should-know),
-però desde ençà s'ha mogut a GitHub, on persones més talentoses que l'autor han realitzat nombroses millores.
+però des d'ençà s'ha mogut a GitHub, on persones més talentoses que l'autor han realitzat nombroses millores.
 [**Si us plau, contribueix**](/CONTRIBUTING.md) Si veus un error o quelcom que podria ser millor!
 
 ## Meta
